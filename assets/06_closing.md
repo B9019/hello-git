@@ -39,7 +39,7 @@ Gitの良さは実際にアプリケーションを開発して初めて分か�
 
 <img src="../img/06_closing/002.png" width="100">
 
-- [GitHub Desktop](https://desktop.github.com/) ... Webブラウザ上でも不自由なくGitHubを操作できるが, GitHubのデスクトップアプリケーション.
+- [GitHub Desktop](https://desktop.github.com/) ... Webブラウザ上でも不自由なくGitHubを操作できるが, GitHubのデスクトップアプリケーションもある.
 
 <img src="../img/06_closing/003.png" width="100">
 
